@@ -1,0 +1,4 @@
+from mbrl.models.model_collectors.model_collector import ModelCollector
+import mbrl.models.model_collectors.mbpo_collector
+import mbrl.models.model_collectors.m2ac_collector
+import mbrl.models.model_collectors.mopo_collector
